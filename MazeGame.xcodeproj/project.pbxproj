@@ -36,7 +36,6 @@
 		119D39A923E8D7010065A814 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 119D39A823E8D7010065A814 /* Assets.xcassets */; };
 		119D39AC23E8D7010065A814 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119D39AA23E8D7010065A814 /* LaunchScreen.storyboard */; };
 		119D39B423E8DE140065A814 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119D39B323E8DE140065A814 /* Player.swift */; };
-		11A3E0E524100C4B00E9289C /* ToDo.txt in Resources */ = {isa = PBXBuildFile; fileRef = 11A3E0E424100C4B00E9289C /* ToDo.txt */; };
 		11A3E0E82410304000E9289C /* Level.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A3E0E72410304000E9289C /* Level.swift */; };
 		11B2B654251E6ED80034B1E4 /* ProfileLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B2B653251E6ED80034B1E4 /* ProfileLoader.swift */; };
 		11B2B656251E73950034B1E4 /* ProfileData.json in Resources */ = {isa = PBXBuildFile; fileRef = 11B2B655251E73950034B1E4 /* ProfileData.json */; };
@@ -95,7 +94,6 @@
 		119D39AB23E8D7010065A814 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		119D39AD23E8D7010065A814 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		119D39B323E8DE140065A814 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
-		11A3E0E424100C4B00E9289C /* ToDo.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ToDo.txt; sourceTree = "<group>"; };
 		11A3E0E72410304000E9289C /* Level.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level.swift; sourceTree = "<group>"; };
 		11B2B653251E6ED80034B1E4 /* ProfileLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileLoader.swift; sourceTree = "<group>"; };
 		11B2B655251E73950034B1E4 /* ProfileData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ProfileData.json; sourceTree = "<group>"; };
@@ -278,7 +276,6 @@
 				111E54B8240FAD8D00298C91 /* Src */,
 				111E54A9240FAA6000298C91 /* Res */,
 				119D39AD23E8D7010065A814 /* Info.plist */,
-				11A3E0E424100C4B00E9289C /* ToDo.txt */,
 			);
 			path = MazeGame;
 			sourceTree = "<group>";
@@ -397,7 +394,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11A3E0E524100C4B00E9289C /* ToDo.txt in Resources */,
 				11B5E2CD24E951EF00BEA580 /* M0-map002.save in Resources */,
 				119D39A723E8D7000065A814 /* Main.storyboard in Resources */,
 				119D399E23E8D7000065A814 /* GameScene.sks in Resources */,
