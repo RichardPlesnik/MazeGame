@@ -1,0 +1,457 @@
+{
+    "id" : 1,
+    "spawnIndex" : 0,
+    "actualTime" : 0,
+    "bestTime" : 0,
+    "mapParts" : [
+        {
+            "id" : 0,
+            "teleportFounds" : [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "coinCount" : 0,
+            "spawnFound" : true,
+            "foundCoins" : [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "exitCount" : 2,
+            "name" : "M0-map000",
+            "teleportPos" : [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "id" : 1,
+            "teleportFounds" : [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "coinCount" : 0,
+            "spawnFound" : true,
+            "foundCoins" : [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "exitCount" : 3,
+            "name" : "M0-map001",
+            "teleportPos" : [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "id" : 2,
+            "teleportFounds" : [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "coinCount" : 0,
+            "spawnFound" : true,
+            "foundCoins" : [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "exitCount" : 2,
+            "name" : "M0-map002",
+            "teleportPos" : [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "id" : 3,
+            "teleportFounds" : [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "coinCount" : 0,
+            "spawnFound" : true,
+            "foundCoins" : [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "exitCount" : 3,
+            "name" : "M0-map003",
+            "teleportPos" : [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "id" : 4,
+            "teleportFounds" : [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "coinCount" : 0,
+            "spawnFound" : true,
+            "foundCoins" : [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "exitCount" : 4,
+            "name" : "M0-map004",
+            "teleportPos" : [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "id" : 5,
+            "teleportFounds" : [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "coinCount" : 0,
+            "spawnFound" : true,
+            "foundCoins" : [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "exitCount" : 3,
+            "name" : "M0-map005",
+            "teleportPos" : [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "id" : 6,
+            "teleportFounds" : [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "coinCount" : 0,
+            "spawnFound" : true,
+            "foundCoins" : [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "exitCount" : 2,
+            "name" : "M0-map006",
+            "teleportPos" : [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "id" : 7,
+            "teleportFounds" : [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "coinCount" : 0,
+            "spawnFound" : true,
+            "foundCoins" : [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "exitCount" : 3,
+            "name" : "M0-map007",
+            "teleportPos" : [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "id" : 8,
+            "teleportFounds" : [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "coinCount" : 0,
+            "spawnFound" : true,
+            "foundCoins" : [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "exitCount" : 2,
+            "name" : "M0-map008",
+            "teleportPos" : [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        }
+    ],
+    "lastY" : 0,
+    "coinCount2" : 0,
+    "lastPart" : 4,
+    "gatePos" : [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "foundGates" : [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "lastX" : 0,
+    "foundMids" : [
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "started" : false,
+    "finished" : false,
+    "cooldowns" : [
+        -100.0,
+        -100.0,
+        -100.0,
+        -100.0
+    ],
+    "name" : "Map001"
+}
+
